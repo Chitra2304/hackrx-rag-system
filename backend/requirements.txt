@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-docx
+PyPDF2
+pytesseract
+pillow
+spacy
+flair
+sentence-transformers
+faiss-cpu
+redis
+python-multipart
+concurrent-log-handler
+
