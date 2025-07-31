@@ -1,6 +1,6 @@
 # HackRx RAG System
 
-A robust, production-ready LLM-powered intelligent query-retrieval system for processing natural language queries against unstructured documents with semantic search and explainable decision-making.
+A LLM-powered intelligent query-retrieval system for processing natural language queries against unstructured documents with semantic search and explainable decision-making.
 
 ## Features
 
