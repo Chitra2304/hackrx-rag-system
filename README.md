@@ -237,4 +237,4 @@ For issues and questions:
 
 ---
 
-**Built for HackRx 6.0 - A production-ready RAG system for intelligent document querying.** 
+**Built for HackRx 6.0 - A RAG system for intelligent document querying.** 
